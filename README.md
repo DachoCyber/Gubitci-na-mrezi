@@ -2,9 +2,11 @@
 Program racuna gubitke na mrezi.
 
 Kompajluje se
-Na Windowsu:
+Na Windows:
 mingw32-make
-Na Linuxu:
+
+
+Na Linux:
 make
 
 

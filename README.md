@@ -1,4 +1,4 @@
-# Gubitci-na-mrezi
+# Gubici-na-mrezi
 Program racuna gubitke na mrezi.
 
 Kompajluje se

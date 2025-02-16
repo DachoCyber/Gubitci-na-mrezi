@@ -8,4 +8,4 @@ Na Linuxu:
 make
 
 
-![alt text]https://github.com/DachoCyber/Gubitci-na-mrezi/blob/main/mreza.png
+![screenshot]https://github.com/DachoCyber/Gubitci-na-mrezi/blob/main/mreza.png
